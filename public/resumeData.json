@@ -1,0 +1,96 @@
+{
+  "main": {
+    "name": "Daniel Wensel",
+    "occupation": "Software Engineer",
+    "description": "Programming, data science, and machine learning are what drives me to pursue a career in the tech industry. I love the idea of being able to use these three things to improve products or create a product at a company. I strive to learn more about these three things with my studies at BYU and through my work opportunities",
+    "image": "me.jpeg",
+    "bio": "Besides Programming, I love skiing, playing basketball, getting Ws on Apex Legends, reading Sci Fi books, and watching Denis Villeneuve's movies.",
+    "contactmessage": "Besides Programming, I love skiing, playing basketball, getting Ws on Apex Legends, reading Sci Fi books, and watching Denis Villeneuve's movies.",
+    "email": "danieljwensel@gmail.com",
+    "phone": "801-589-5064",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Lehi",
+      "state": "Utah",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "danresume.pdf",
+    "resumedownload": "",
+    "social": [
+    
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/danny-wensel/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/danwnsl/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dwnsl?tab=repositories",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Brigham Young University",
+        "degree": "Bachelor in Computer Science",
+        "graduated": "Expected Graduation Date - April 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Sandbox: BYU Tech Accelerator",
+        "title": "Software Engineer",
+        "years": "Sep 2021-Present",
+        "description": "Among 50 out of 130 applicants to be selected to create a successful tech product. Interviewed over 100 people to validate problem within word of mouth marketing. Built and deployed a landing page for my team’s product using JavaScript, HTML, and CSS. Set up the process of authentication of users signing on to the app using Firebase and Flutter. Designed and built the process of navigating through the Flutter app."
+      },
+      {
+        "company": "Gargle",
+        "title": "Data Engineer Intern",
+        "years": "April 2021-August 2021",
+        "description": "Built and automated the process of getting over 1,000 patient review data to help update our web app using python, AWS S3, and Swell CX. Handled over 100 data issues with customer data that would not display correctly on our web app using python scripts. Augmented a python script that transferred large amounts of salesforce data from one Salesforce instance to another Salesforce Instance. "
+      },
+      {
+        "company": "Chatbooks",
+        "title": "Data Science Intern",
+        "years": "May 2019-January 2020",
+        "description": "Managed and automated the process of gathering over 10,000 photos from users to train with an image recognition model using Python, Fast-ai and Jupyter Notebooks. Implemented a test photo set called the Golden Test Set that used over 1,000 examples of false-positives and false negatives to move the accuracy threshold above 98%."
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Flutter"
+      },
+      {
+        "name": "ReactJs"
+      },
+      {
+        "name": "Java"
+      },
+      {
+        "name": "C++"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name":"AWS S3"
+      },
+      {
+        "name": "Firebase Firestore"
+      }
+    ]
+  }
+}
